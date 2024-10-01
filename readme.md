@@ -23,3 +23,7 @@ En este proyecto, me centraré sobre cómo se pueden obtener imágenes de Bing d
 [**6_tabla_poblacion_mundial_scrapy_WORLDOMETERS**](./6_tabla_poblacion_mundial_scrapy_WORLDOMETERS/)
 
 En este proyecto, veremos cómo se pueden obtener las poblaciones actuales de los diferentes países o territorios dependientes del mundo, haciendo uso de Scrapy.
+
+[**7_informacion_climatica_api_AEMET**](./7_informacion_climatica_api_AEMET/)
+
+En este proyecto, veremos cómo se pueden obtener datos climatológicos, haciendo uso de la API pública que dispone AEMET. Explicaré paso a paso las diferentes maneras en que podemos hacerlo.
