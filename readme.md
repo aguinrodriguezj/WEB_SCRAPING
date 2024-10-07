@@ -27,3 +27,7 @@ En este proyecto, veremos cómo se pueden obtener las poblaciones actuales de lo
 [**7_informacion_climatica_api_AEMET**](./7_informacion_climatica_api_AEMET/)
 
 En este proyecto, veremos cómo se pueden obtener datos climatológicos, haciendo uso de la API pública que dispone AEMET. Explicaré paso a paso las diferentes maneras en que podemos hacerlo.
+
+[**8_peliculas_gemini_IMDB**](./8_peliculas_gemini_IMDB/)
+
+En este proyecto, usaremos Selenium para acceder al listado de las 250 películas con mayor promedio de calificaciones, basado en votos de los usuarios registrados en el sitio web, y BeautifulSoup para parsear el contenido HTML. Finalmente, le haremos una petición a Gemini (usando el modelo gemini-1.5-pro) para que extraiga los datos requeridos.
